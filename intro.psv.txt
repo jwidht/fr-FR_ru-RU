@@ -1,4 +1,4 @@
-quiz.properties|name=Знакомство (Connaissance)~~q_lang=fr-FR~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40~~skipaudiomode=3
+quiz.properties|name=Знакомство (Connaissance)~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40~~skipaudiomode=3
 Comment vous appelez-vous?|Как вас зовут (форм.)
 Comment tu t'appelles?|Как тебя зовут?
 Je m'appelle Thierry.|Меня зовут Тьерри.
