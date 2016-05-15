@@ -1,4 +1,4 @@
-quiz.properties|name=Основные фразы~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=Основные фразы(phrases de base)~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Salut!|Привет! / Пока!
 Bonjour.|Добрый день. (до 6 вечера)
 Bonsoir.|Добрый вечер. (после 6 вечера)
