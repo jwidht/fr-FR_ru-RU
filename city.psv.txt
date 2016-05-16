@@ -28,7 +28,7 @@ Où est la station de métro la plus proche?|Где находится ближ�
 Où est la bouche du métro?|Где вход в метро?
 Où est l’arrêt de bus?|Где остановка автобуса?
 Comment s’appelle cet arrêt?|Как называется эта остановка?
-A quell arrêt faut-il descendre?|На какой остановке надо выходить?
+A quel arrêt faut-il descendre?|На какой остановке надо выходить?
 Où est-ce que je peux trouver un taxi?|Где можно взять такси?
 Vous êtes libre?|Свободно?
 La rue Molière, s’il vous plaît.|Пожалуйста, мне на улицу Мольера.
